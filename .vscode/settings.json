@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "fastapi-env\\Scripts\\python.exe",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none"
+    }
+}
